@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\ChangeLab\bin\Debug\ChangeLab.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\ChangeLab\bin\Debug\ChangeLab.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\ChangeLab\bin\Debug\ChangeLab.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\ChangeLab\obj\Debug\ChangeLab.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\ChangeLab\obj\Debug\ChangeLab.pdb
