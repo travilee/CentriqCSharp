@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Variables\bin\Debug\Variables.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Variables\bin\Debug\Variables.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Variables\bin\Debug\Variables.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Variables\obj\Debug\Variables.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Variables\obj\Debug\Variables.pdb
