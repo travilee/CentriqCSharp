@@ -1,1 +1,6 @@
 C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\WaterLab\bin\Debug\WaterLab.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\WaterLab\bin\Debug\WaterLab.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\WaterLab\bin\Debug\WaterLab.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\WaterLab\obj\Debug\WaterLab.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\WaterLab\obj\Debug\WaterLab.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\WaterLab\obj\Debug\WaterLab.pdb
