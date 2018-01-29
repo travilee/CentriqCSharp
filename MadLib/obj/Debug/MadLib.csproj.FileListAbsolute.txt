@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\MadLib\bin\Debug\MadLib.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\MadLib\bin\Debug\MadLib.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\MadLib\bin\Debug\MadLib.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\MadLib\obj\Debug\MadLib.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\MadLib\obj\Debug\MadLib.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\MadLib\obj\Debug\MadLib.pdb
