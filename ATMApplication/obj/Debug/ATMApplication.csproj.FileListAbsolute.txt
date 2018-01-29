@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\ATMApplication\bin\Debug\ATMApplication.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\ATMApplication\bin\Debug\ATMApplication.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\ATMApplication\bin\Debug\ATMApplication.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\ATMApplication\obj\Debug\ATMApplication.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\ATMApplication\obj\Debug\ATMApplication.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\ATMApplication\obj\Debug\ATMApplication.pdb
