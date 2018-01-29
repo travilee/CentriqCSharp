@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Counting\bin\Debug\Counting.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Counting\bin\Debug\Counting.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Counting\bin\Debug\Counting.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Counting\obj\Debug\Counting.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Counting\obj\Debug\Counting.pdb
