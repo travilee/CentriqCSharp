@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Login\bin\Debug\Login.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Login\bin\Debug\Login.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Login\bin\Debug\Login.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Login\obj\Debug\Login.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Login\obj\Debug\Login.pdb
