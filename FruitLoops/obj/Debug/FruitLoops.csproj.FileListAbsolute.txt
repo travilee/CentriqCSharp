@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\FruitLoops\bin\Debug\FruitLoops.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\FruitLoops\bin\Debug\FruitLoops.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\FruitLoops\bin\Debug\FruitLoops.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\FruitLoops\obj\Debug\FruitLoops.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\FruitLoops\obj\Debug\FruitLoops.pdb
