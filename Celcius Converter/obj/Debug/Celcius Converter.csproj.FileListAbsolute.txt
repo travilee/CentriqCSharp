@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Celcius Converter\bin\Debug\Celcius Converter.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Celcius Converter\bin\Debug\Celcius Converter.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Celcius Converter\bin\Debug\Celcius Converter.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Celcius Converter\obj\Debug\Celcius Converter.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\CentriqCSharp\src\Celcius Converter\obj\Debug\Celcius Converter.pdb
